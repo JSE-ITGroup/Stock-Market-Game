@@ -1,7 +1,0 @@
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\bin\Debug\SampleCSharp.exe.config
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\bin\Debug\SampleCSharp.exe
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\bin\Debug\SampleCSharp.pdb
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\obj\Debug\SampleCSharp.csprojResolveAssemblyReference.cache
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\obj\Debug\SampleCSharp.csproj.CoreCompileInputs.cache
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\obj\Debug\SampleCSharp.exe
-C:\Users\au_xavier.watson\source\repos\SampleCSharp\SampleCSharp\obj\Debug\SampleCSharp.pdb
